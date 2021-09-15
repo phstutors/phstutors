@@ -27,5 +27,5 @@
  
   ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)
  <img align="left" alt="Rafa-yoda" src="http://i748.photobucket.com/albums/xx122/luuuh/minis%203/minis512.gif">
- <img align="left" alt="https://2.bp.blogspot.com/-akwDbFnkGUo/T9u8XFqnbaI/AAAAAAAAkEw/bqghHUSwp60/s1600/varer.gif">
+ <img align="left" alt="Raffa-yoda" src="https://2.bp.blogspot.com/-akwDbFnkGUo/T9u8XFqnbaI/AAAAAAAAkEw/bqghHUSwp60/s1600/varer.gif">
  
