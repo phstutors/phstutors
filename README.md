@@ -26,4 +26,5 @@
   <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)
+ <img align="right" alt="Rafa-yoda" src="http://i748.photobucket.com/albums/xx122/luuuh/minis%203/minis512.gif">
  
