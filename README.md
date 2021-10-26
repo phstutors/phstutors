@@ -23,11 +23,12 @@
   <a href="https://www.youtube.com/channel/phstutorsdegames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pedrophs_ofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/phstutorsofc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:phsefamilia8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)
  <div display="inline-block">
  <img align="left" alt="Raffa-yoda" src="https://2.bp.blogspot.com/-akwDbFnkGUo/T9u8XFqnbaI/AAAAAAAAkEw/bqghHUSwp60/s1600/varer.gif">
  <img align="left" alt="Rafa-yoda" src="https://4.bp.blogspot.com/-lBdEC-cIT7A/T9u7PAU_TZI/AAAAAAAAj1Q/fIGSxVSdNYc/s1600/4.gif">
+   <img align="left" alt="Rafa-yoda" src="https://giphy.com/clips/GNQUqp9YGAos34xbVe">
  </div>
