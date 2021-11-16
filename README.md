@@ -7,7 +7,7 @@
 **Linguagens e Ferramentas:**  
 <img align="right" alt="Rafa-yoda" src="http://i748.photobucket.com/albums/xx122/luuuh/mini%20gifs%20bichinhos/plakgif.gif">
 <code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/-Laravel-red?style=flat-square&labelColor=red&logo=Laravel&logoColor=white%22/%3E"></code>
 <code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code> 
