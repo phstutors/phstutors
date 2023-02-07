@@ -33,7 +33,4 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)
- <div display="inline-block">
- <img align="left" alt="Raffa-yoda" src="https://2.bp.blogspot.com/-akwDbFnkGUo/T9u8XFqnbaI/AAAAAAAAkEw/bqghHUSwp60/s1600/varer.gif">
- <img align="left" alt="Rafa-yoda" src="https://4.bp.blogspot.com/-lBdEC-cIT7A/T9u7PAU_TZI/AAAAAAAAj1Q/fIGSxVSdNYc/s1600/4.gif">
- </div>
+ 
