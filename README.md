@@ -33,7 +33,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=phstutors&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=phstutors&icon=8&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=phstutors&label=Profile%20Views&color=12&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
  
   ![Snake animation](https://github.com/phstutors/phstutors/blob/output/github-contribution-grid-snake.svg)
