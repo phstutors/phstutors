@@ -5,21 +5,17 @@
 - 🌱 I´m learning in IFPE Palmares ...
 - 😄 Pronouns:He/His ...
 
-**Languages and tools:**  
+**Estou desenvolvendo projetos com:**
+<br>
 
-<code><img height="20" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></code>
-<code><img height="20" src="https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=laravel&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"></code> 
-<code><img height="20" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></code> 
-<code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code> 
-
-
-
+<div align="center">
+  <a href="https://www.linkedin.com/in/phstutors/">
+    <img src="https://skillicons.dev/icons?i=js,php,html,css,laravel,vue,git,dotnet,python,java,docker,nodejs,mysql&theme=dark" />
+  </a>
+</div>
 
 **My social network**
-<div> 
+<div align="center"> 
   <a href="https://www.youtube.com/channel/phstutorsdegames" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/pedrophs_ofc" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://twitter.com/phstutorsofc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
